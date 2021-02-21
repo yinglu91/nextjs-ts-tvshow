@@ -130,6 +130,6 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
         country
       }
   }
-};
+}
 
 export default ShowDetails

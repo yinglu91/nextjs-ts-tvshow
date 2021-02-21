@@ -36,6 +36,8 @@ const ShowsByCountry: React.FC<CountryProps> = ({ shows, country }) => {
     )
 }
 
+// outside functional component, hooks can't be used!!!, so no useSWR!!!
+
 // https://api.tvmaze.com/schedule?country=us&date=1960-12-01
 export const getServerSideProps: GetServerSideProps = async (context) => {
     // console.log(context)
