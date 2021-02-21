@@ -92,11 +92,6 @@ const ShowDetails: React.FC<ShowDetailsProps> = ({country, details}) => {
 
 // https://api.tvmaze.com/shows/3221?embed=cast
 
-export interface PersonType {
-  name: string;
-  image?: {medium: string};
-}
-
 export const getServerSideProps: GetServerSideProps = async (context) => {
   // console.log(context)
   // { 
@@ -108,17 +103,16 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
   // }
 
   const { country, showId } = context.query;
-  const {data} = await axios.get(
-      `https://api.tvmaze.com/shows/${showId}?embed=cast`
-  );
+  const {data} = await axios.get(`https://api.tvmaze.com/shows/${showId}?embed=cast`);
 
-  const casts: CastType[] = data._embedded.cast.map((castPerson: any) => {
-    const person = castPerson.person as PersonType
-    const character = castPerson.character.name
+  const casts: CastType[] = data._embedded.cast.map((cast: any) => {
+    const name = cast.person.name;
+    const imageUrl = (cast.person.image && cast.person.image.medium) || ''
+    const character = cast.character.name
 
     return {
-      name: person.name,
-      imageUrl: (person.image && person.image.medium) || '',
+      name,
+      imageUrl,
       character
     }
   })
