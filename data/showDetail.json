@@ -1,0 +1,240 @@
+{
+  "id": 24644,
+  "url": "https://www.tvmaze.com/shows/24644/the-donna-reed-show",
+  "name": "The Donna Reed Show",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+     "Comedy",
+     "Family"
+  ],
+  "status": "Ended",
+  "runtime": 30,
+  "premiered": "1958-09-24",
+  "officialSite": null,
+  "schedule": {
+     "time": "20:00",
+     "days": [
+        "Saturday"
+     ]
+  },
+  "rating": {
+     "average": null
+  },
+  "weight": 70,
+  "network": {
+     "id": 3,
+     "name": "ABC",
+     "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+     }
+  },
+  "webChannel": null,
+  "externals": {
+     "tvrage": null,
+     "thetvdb": 77779,
+     "imdb": "tt0051267"
+  },
+  "image": {
+     "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/235322.jpg",
+     "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/235322.jpg"
+  },
+  "summary": "<p>The dreams, ambitions, and frustrations of Donna Stone and her family: her husband Alex, a pediatrician; their children Mary and Jeff; and their adopted daughter Trisha.<\/p>",
+  "updated": 1613875726,
+  "_links": {
+     "self": {
+        "href": "https://api.tvmaze.com/shows/24644"
+     },
+     "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1046050"
+     }
+  },
+  "_embedded": {
+     "cast": [
+        {
+           "person": {
+              "id": 90192,
+              "url": "https://www.tvmaze.com/people/90192/donna-reed",
+              "name": "Donna Reed",
+              "country": {
+                 "name": "United States",
+                 "code": "US",
+                 "timezone": "America/New_York"
+              },
+              "birthday": "1921-01-27",
+              "deathday": "1986-01-14",
+              "gender": "Female",
+              "image": {
+                 "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/235328.jpg",
+                 "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/235328.jpg"
+              },
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/people/90192"
+                 }
+              }
+           },
+           "character": {
+              "id": 372021,
+              "url": "https://www.tvmaze.com/characters/372021/the-donna-reed-show-donna-stone",
+              "name": "Donna Stone",
+              "image": null,
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/characters/372021"
+                 }
+              }
+           },
+           "self": false,
+           "voice": false
+        },
+        {
+           "person": {
+              "id": 160544,
+              "url": "https://www.tvmaze.com/people/160544/paul-petersen",
+              "name": "Paul Petersen",
+              "country": {
+                 "name": "United States",
+                 "code": "US",
+                 "timezone": "America/New_York"
+              },
+              "birthday": "1945-09-23",
+              "deathday": null,
+              "gender": "Male",
+              "image": {
+                 "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/235329.jpg",
+                 "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/235329.jpg"
+              },
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/people/160544"
+                 }
+              }
+           },
+           "character": {
+              "id": 372024,
+              "url": "https://www.tvmaze.com/characters/372024/the-donna-reed-show-jeff-stone",
+              "name": "Jeff Stone",
+              "image": null,
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/characters/372024"
+                 }
+              }
+           },
+           "self": false,
+           "voice": false
+        },
+        {
+           "person": {
+              "id": 133054,
+              "url": "https://www.tvmaze.com/people/133054/carl-betz",
+              "name": "Carl Betz",
+              "country": {
+                 "name": "United States",
+                 "code": "US",
+                 "timezone": "America/New_York"
+              },
+              "birthday": "1921-03-09",
+              "deathday": "1978-01-18",
+              "gender": "Male",
+              "image": {
+                 "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/235363.jpg",
+                 "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/235363.jpg"
+              },
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/people/133054"
+                 }
+              }
+           },
+           "character": {
+              "id": 372022,
+              "url": "https://www.tvmaze.com/characters/372022/the-donna-reed-show-alex-stone",
+              "name": "Alex Stone",
+              "image": null,
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/characters/372022"
+                 }
+              }
+           },
+           "self": false,
+           "voice": false
+        },
+        {
+           "person": {
+              "id": 55813,
+              "url": "https://www.tvmaze.com/people/55813/shelley-fabares",
+              "name": "Shelley Fabares",
+              "country": {
+                 "name": "United States",
+                 "code": "US",
+                 "timezone": "America/New_York"
+              },
+              "birthday": "1944-01-19",
+              "deathday": null,
+              "gender": "Female",
+              "image": {
+                 "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/27/69630.jpg",
+                 "original": "https://static.tvmaze.com/uploads/images/original_untouched/27/69630.jpg"
+              },
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/people/55813"
+                 }
+              }
+           },
+           "character": {
+              "id": 372023,
+              "url": "https://www.tvmaze.com/characters/372023/the-donna-reed-show-mary-stone",
+              "name": "Mary Stone",
+              "image": null,
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/characters/372023"
+                 }
+              }
+           },
+           "self": false,
+           "voice": false
+        },
+        {
+           "person": {
+              "id": 160545,
+              "url": "https://www.tvmaze.com/people/160545/patty-petersen",
+              "name": "Patty Petersen",
+              "country": {
+                 "name": "United States",
+                 "code": "US",
+                 "timezone": "America/New_York"
+              },
+              "birthday": "1954-12-02",
+              "deathday": null,
+              "gender": "Female",
+              "image": null,
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/people/160545"
+                 }
+              }
+           },
+           "character": {
+              "id": 372025,
+              "url": "https://www.tvmaze.com/characters/372025/the-donna-reed-show-trisha",
+              "name": "Trisha",
+              "image": null,
+              "_links": {
+                 "self": {
+                    "href": "https://api.tvmaze.com/characters/372025"
+                 }
+              }
+           },
+           "self": false,
+           "voice": false
+        }
+     ]
+  }
+}

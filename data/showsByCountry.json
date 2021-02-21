@@ -1,0 +1,729 @@
+[
+  {
+     "id": 1677171,
+     "url": "https://www.tvmaze.com/episodes/1677171/guestward-ho-1x05-babs-vanity",
+     "name": "Babs' Vanity",
+     "season": 1,
+     "number": 5,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "08:30",
+     "airstamp": "1960-12-01T13:30:00+00:00",
+     "runtime": 25,
+     "image": null,
+     "summary": null,
+     "show": {
+        "id": 42837,
+        "url": "https://www.tvmaze.com/shows/42837/guestward-ho",
+        "name": "Guestward Ho!",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Comedy",
+           "Western"
+        ],
+        "status": "Ended",
+        "runtime": 25,
+        "premiered": "1960-09-29",
+        "officialSite": null,
+        "schedule": {
+           "time": "08:30",
+           "days": [
+              "Thursday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 0,
+        "network": {
+           "id": 3,
+           "name": "ABC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": null,
+           "thetvdb": 73498,
+           "imdb": "tt0053505"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/203/509779.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/509779.jpg"
+        },
+        "summary": "<p>Fed up with the hustle and bustle of New York City, Babs and Bill Hooten, decide to look for someplace else to live, and work. Their dream house proves to be Guestward Ho, a dude ranch in New Mexico. They buy it, sight unseen, and move west only to find a rather run-down establishment in need of much work. The only source of supplies in the area is a store run by an Indian named Hawkeye . Hawkeye reads the <i>Wall Street Journal<\/i>, sells Indian trinkets that had been made in Japan, and is bound and determined to find a way to return the country to its rightful owners, his people.<\/p>",
+        "updated": 1564447806,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/42837"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/1677205"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/1677171"
+        }
+     }
+  },
+  {
+     "id": 1677172,
+     "url": "https://www.tvmaze.com/episodes/1677172/guestward-ho-1x06-babs-vanity",
+     "name": "Babs' Vanity",
+     "season": 1,
+     "number": 6,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "08:30",
+     "airstamp": "1960-12-01T13:30:00+00:00",
+     "runtime": 25,
+     "image": null,
+     "summary": null,
+     "show": {
+        "id": 42837,
+        "url": "https://www.tvmaze.com/shows/42837/guestward-ho",
+        "name": "Guestward Ho!",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Comedy",
+           "Western"
+        ],
+        "status": "Ended",
+        "runtime": 25,
+        "premiered": "1960-09-29",
+        "officialSite": null,
+        "schedule": {
+           "time": "08:30",
+           "days": [
+              "Thursday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 0,
+        "network": {
+           "id": 3,
+           "name": "ABC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": null,
+           "thetvdb": 73498,
+           "imdb": "tt0053505"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/203/509779.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/203/509779.jpg"
+        },
+        "summary": "<p>Fed up with the hustle and bustle of New York City, Babs and Bill Hooten, decide to look for someplace else to live, and work. Their dream house proves to be Guestward Ho, a dude ranch in New Mexico. They buy it, sight unseen, and move west only to find a rather run-down establishment in need of much work. The only source of supplies in the area is a store run by an Indian named Hawkeye . Hawkeye reads the <i>Wall Street Journal<\/i>, sells Indian trinkets that had been made in Japan, and is bound and determined to find a way to return the country to its rightful owners, his people.<\/p>",
+        "updated": 1564447806,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/42837"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/1677205"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/1677172"
+        }
+     }
+  },
+  {
+     "id": 168872,
+     "url": "https://www.tvmaze.com/episodes/168872/american-bandstand-4x64-ab-869-neil-sedaka",
+     "name": "AB-869: Neil Sedaka",
+     "season": 4,
+     "number": 64,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "19:30",
+     "airstamp": "1960-12-02T00:30:00+00:00",
+     "runtime": 60,
+     "image": null,
+     "summary": "",
+     "show": {
+        "id": 2120,
+        "url": "https://www.tvmaze.com/shows/2120/american-bandstand",
+        "name": "American Bandstand",
+        "type": "Variety",
+        "language": "English",
+        "genres": [
+           "Music"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "premiered": "1957-08-05",
+        "officialSite": null,
+        "schedule": {
+           "time": "19:30",
+           "days": [
+              "Monday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 10,
+        "network": {
+           "id": 3,
+           "name": "ABC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": 2590,
+           "thetvdb": 72786,
+           "imdb": null
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/29788.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/29788.jpg"
+        },
+        "summary": "<p><b>American Bandstand<\/b> is an American music-performance show that aired in various versions from 1952 to 1989 and was hosted from 1956 until its final season by Dick Clark, who also served as producer. The show featured teenagers dancing to Top 40 music introduced by Clark; at least one popular musical act—over the decades, running the gamut from Jerry Lee Lewis to Run DMC—would usually appear in person to lip-sync one of their latest singles. Freddy \"Boom Boom\" Cannon holds the record for most appearances at 110.<\/p><p>The show's popularity helped Dick Clark become an American media mogul and inspired similar long-running music programs, such as Soul Train and Top of the Pops. Clark eventually assumed ownership of the program through his 'Dick Clark Productions' company.<\/p>",
+        "updated": 1604858312,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/2120"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/170820"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/168872"
+        }
+     }
+  },
+  {
+     "id": 180750,
+     "url": "https://www.tvmaze.com/episodes/180750/you-bet-your-life-11x11-water",
+     "name": "Water",
+     "season": 11,
+     "number": 11,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "20:00",
+     "airstamp": "1960-12-02T01:00:00+00:00",
+     "runtime": 30,
+     "image": null,
+     "summary": "",
+     "show": {
+        "id": 2197,
+        "url": "https://www.tvmaze.com/shows/2197/you-bet-your-life",
+        "name": "You Bet Your Life",
+        "type": "Game Show",
+        "language": "English",
+        "genres": [
+           "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "premiered": "1950-10-05",
+        "officialSite": null,
+        "schedule": {
+           "time": "20:00",
+           "days": [
+              "Thursday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 11,
+        "network": {
+           "id": 1,
+           "name": "NBC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": 7304,
+           "thetvdb": 71696,
+           "imdb": "tt0042171"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/12/30411.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/12/30411.jpg"
+        },
+        "summary": "<p>Groucho Marx hosts a quiz show which features a series of competitive questions and a great deal of humorous conversation.<\/p>",
+        "updated": 1601149980,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/2197"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/180756"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/180750"
+        }
+     }
+  },
+  {
+     "id": 679479,
+     "url": "https://www.tvmaze.com/episodes/679479/the-real-mccoys-4x07-smothered-in-love",
+     "name": "Smothered in Love",
+     "season": 4,
+     "number": 7,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "20:00",
+     "airstamp": "1960-12-02T01:00:00+00:00",
+     "runtime": 30,
+     "image": null,
+     "summary": "",
+     "show": {
+        "id": 14947,
+        "url": "https://www.tvmaze.com/shows/14947/the-real-mccoys",
+        "name": "The Real McCoys",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "premiered": "1957-10-03",
+        "officialSite": null,
+        "schedule": {
+           "time": "20:00",
+           "days": [
+              "Thursday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 5,
+        "network": {
+           "id": 3,
+           "name": "ABC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": null,
+           "thetvdb": 77603,
+           "imdb": "tt0050053"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/50/127306.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/50/127306.jpg"
+        },
+        "summary": "<p>Led by patriarch Grandpa Amos McCoy, the McCoy family moves from Virginia to the San Fernando Valley in California to run a new farm that he inherited. Upon their arrival, Amos quickly starts giving advice to his grandson Luke and his new bride Kate, other family members, and to their neighbors - whether it was solicited or not.<\/p>",
+        "updated": 1601808692,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/14947"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/679579"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/679479"
+        }
+     }
+  },
+  {
+     "id": 1045844,
+     "url": "https://www.tvmaze.com/episodes/1045844/the-donna-reed-show-3x11-the-model-daughter",
+     "name": "The Model Daughter",
+     "season": 3,
+     "number": 11,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "20:00",
+     "airstamp": "1960-12-02T01:00:00+00:00",
+     "runtime": 30,
+     "image": null,
+     "summary": null,
+     "show": {
+        "id": 24644,
+        "url": "https://www.tvmaze.com/shows/24644/the-donna-reed-show",
+        "name": "The Donna Reed Show",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Comedy",
+           "Family"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "premiered": "1958-09-24",
+        "officialSite": null,
+        "schedule": {
+           "time": "20:00",
+           "days": [
+              "Saturday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 70,
+        "network": {
+           "id": 3,
+           "name": "ABC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": null,
+           "thetvdb": 77779,
+           "imdb": "tt0051267"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/94/235322.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/94/235322.jpg"
+        },
+        "summary": "<p>The dreams, ambitions, and frustrations of Donna Stone and her family: her husband Alex, a pediatrician; their children Mary and Jeff; and their adopted daughter Trisha.<\/p>",
+        "updated": 1613875726,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/24644"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/1046050"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/1045844"
+        }
+     }
+  },
+  {
+     "id": 286437,
+     "url": "https://www.tvmaze.com/episodes/286437/bat-masterson-3x10-last-stop-to-austin",
+     "name": "Last Stop to Austin",
+     "season": 3,
+     "number": 10,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "20:30",
+     "airstamp": "1960-12-02T01:30:00+00:00",
+     "runtime": 30,
+     "image": null,
+     "summary": "",
+     "show": {
+        "id": 4379,
+        "url": "https://www.tvmaze.com/shows/4379/bat-masterson",
+        "name": "Bat Masterson",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Drama",
+           "Action",
+           "Western"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "premiered": "1958-10-08",
+        "officialSite": null,
+        "schedule": {
+           "time": "20:30",
+           "days": [
+              "Thursday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 30,
+        "network": {
+           "id": 1,
+           "name": "NBC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": 105,
+           "thetvdb": 71207,
+           "imdb": "tt0052445"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/20/51668.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/20/51668.jpg"
+        },
+        "summary": "<p><b>Bat Masterson<\/b> is loosely based on the life and adventures of real life lawman, army scout, gunfighter and journalist. Dressed-up dandy (derby and cane), gambler and lawman roams the West charming women and defending the unjustly accused. His primary weapon was his wit (and cane) rather than his gun.<\/p>",
+        "updated": 1613052522,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/4379"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/286461"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/286437"
+        }
+     }
+  },
+  {
+     "id": 508006,
+     "url": "https://www.tvmaze.com/episodes/508006/dick-powells-zane-grey-theatre-5x08-the-black-wagon",
+     "name": "The Black Wagon",
+     "season": 5,
+     "number": 8,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "20:30",
+     "airstamp": "1960-12-02T01:30:00+00:00",
+     "runtime": 30,
+     "image": null,
+     "summary": "",
+     "show": {
+        "id": 9472,
+        "url": "https://www.tvmaze.com/shows/9472/dick-powells-zane-grey-theatre",
+        "name": "Dick Powell's Zane Grey Theatre",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Drama",
+           "Western"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "premiered": "1956-10-05",
+        "officialSite": "http://www.westernclippings.com/remember/zanegreytheatre_doyouremember.shtml",
+        "schedule": {
+           "time": "20:30",
+           "days": [
+              "Thursday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 0,
+        "network": {
+           "id": 2,
+           "name": "CBS",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": null,
+           "thetvdb": 72341,
+           "imdb": "tt0048916"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/33/82984.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/33/82984.jpg"
+        },
+        "summary": "<p><b>Dick Powell's Zane Grey Theatre<\/b>, sometimes simply called Zane Grey Theatre, is an American Western anthology series which ran on CBS from October 5, 1956 - May 18, 1961.<\/p>",
+        "updated": 1610886672,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/9472"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/508028"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/508006"
+        }
+     }
+  },
+  {
+     "id": 1843225,
+     "url": "https://www.tvmaze.com/episodes/1843225/angel-1x08-the-contest",
+     "name": "The Contest",
+     "season": 1,
+     "number": 8,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "21:00",
+     "airstamp": "1960-12-02T02:00:00+00:00",
+     "runtime": 30,
+     "image": null,
+     "summary": null,
+     "show": {
+        "id": 47342,
+        "url": "https://www.tvmaze.com/shows/47342/angel",
+        "name": "Angel",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Comedy"
+        ],
+        "status": "Ended",
+        "runtime": 30,
+        "premiered": "1960-10-06",
+        "officialSite": null,
+        "schedule": {
+           "time": "21:00",
+           "days": [
+              "Wednesday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 0,
+        "network": {
+           "id": 2,
+           "name": "CBS",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": null,
+           "thetvdb": 380416,
+           "imdb": "tt0053480"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/252/632026.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/252/632026.jpg"
+        },
+        "summary": "<p>Trials of a young American Architect with an enchanting but foolish French wife.<\/p>",
+        "updated": 1610998247,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/47342"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/1843251"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/1843225"
+        }
+     }
+  },
+  {
+     "id": 173246,
+     "url": "https://www.tvmaze.com/episodes/173246/the-untouchables-2x07-the-purple-gang",
+     "name": "The Purple Gang",
+     "season": 2,
+     "number": 7,
+     "type": "regular",
+     "airdate": "1960-12-01",
+     "airtime": "22:00",
+     "airstamp": "1960-12-02T03:00:00+00:00",
+     "runtime": 60,
+     "image": null,
+     "summary": "",
+     "show": {
+        "id": 2130,
+        "url": "https://www.tvmaze.com/shows/2130/the-untouchables",
+        "name": "The Untouchables",
+        "type": "Scripted",
+        "language": "English",
+        "genres": [
+           "Drama",
+           "Crime"
+        ],
+        "status": "Ended",
+        "runtime": 60,
+        "premiered": "1959-10-15",
+        "officialSite": null,
+        "schedule": {
+           "time": "22:00",
+           "days": [
+              "Tuesday"
+           ]
+        },
+        "rating": {
+           "average": null
+        },
+        "weight": 11,
+        "network": {
+           "id": 3,
+           "name": "ABC",
+           "country": {
+              "name": "United States",
+              "code": "US",
+              "timezone": "America/New_York"
+           }
+        },
+        "webChannel": null,
+        "externals": {
+           "tvrage": 6264,
+           "thetvdb": 77696,
+           "imdb": "tt0052522"
+        },
+        "image": {
+           "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/11/29813.jpg",
+           "original": "https://static.tvmaze.com/uploads/images/original_untouched/11/29813.jpg"
+        },
+        "summary": "<p><i><b>\"The Untouchables\"<\/b><\/i> chronicles the campaign of Eliot Ness (Robert Stack), the young U.S. Prohibition Bureau agent determined to smash the beer and booze empire of Al Capone in 1920s Chicago.<\/p>",
+        "updated": 1610692031,
+        "_links": {
+           "self": {
+              "href": "https://api.tvmaze.com/shows/2130"
+           },
+           "previousepisode": {
+              "href": "https://api.tvmaze.com/episodes/173329"
+           }
+        }
+     },
+     "_links": {
+        "self": {
+           "href": "https://api.tvmaze.com/episodes/173246"
+        }
+     }
+  }
+]
